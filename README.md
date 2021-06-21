@@ -1,6 +1,39 @@
-# Task list
+# To do list 
+![icon](public/share.png)
 
-Description 
+Welcome to my To do list page!
+
+## Demo
+https://kingabuczniewska.github.io/todo-list-React/
+
+## Table of contents
+* [General info](#general-info)
+* [Logo](#logo)
+* [Technologies](#technologies)
+* [How to use](#how-to-use)
+
+## General info 
+
+This is a simple list of tasks. You can add your tasks, check them and remove.
+
+## Logo 
+![Here's my logo] (https://github.com/KingaBuczniewska/todo-list-React/blob/main/public/icon.png?raw=true)
+
+## Technologies 
+* HTML
+* CSS
+* BEM
+* ES6+
+* Flexbox
+* React
+
+## How to use 
+* Click on "Co jest do zrobienia" and write your task 
+* Click enter 
+* Your task are below the line 
+* Click green button, when task is done 
+* Push red trash icon to remove task 
+
 
 # Getting Started with Create React App
 
