@@ -1,7 +1,7 @@
-# To do list 
+# To-do list 
 ![icon](https://github.com/KingaBuczniewska/todo-list-React/blob/main/public/share%20.png?raw=true)
 
-Welcome to my To do list page!
+Welcome to my To-do list page!
 
 ## Demo
 https://kingabuczniewska.github.io/todo-list-React/
