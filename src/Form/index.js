@@ -8,4 +8,4 @@ const Form = () => (
     </form>
 );
 
-export default Form; 
+export default Form;
