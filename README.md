@@ -17,7 +17,7 @@ https://kingabuczniewska.github.io/todo-list-React/
 This is a simple list of tasks. You can add your tasks, check them and remove.
 
 ## Logo 
-![Here's my logo] (https://github.com/KingaBuczniewska/todo-list-React/blob/main/public/icon.png?raw=true)
+![Here's my logo](https://github.com/KingaBuczniewska/todo-list-React/blob/main/public/icon.png?raw=true)
 
 ## Technologies 
 * HTML
