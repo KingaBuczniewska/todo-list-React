@@ -1,5 +1,5 @@
 # To do list 
-![icon](public/share.png)
+![icon](https://github.com/KingaBuczniewska/todo-list-React/blob/main/public/share%20.png?raw=true)
 
 Welcome to my To do list page!
 
