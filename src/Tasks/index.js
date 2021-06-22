@@ -18,8 +18,9 @@ const Tasks = ({ tasks, hideDone, removeTask, toggleTaskDone }) => (
                     {task.done ? "✓" : ""}
                 </button>
 
-                <span className={`tasks__content${task.done ? " tasks__content--done" : ""}`}>
-                    {task.content}
+                <span className={`tasks__content${task.done ? " tasks__content--done" : ""}`
+                }>
+                    {task.id} - {task.content}
                 </span>
 
                 <button
